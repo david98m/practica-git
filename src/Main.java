@@ -15,5 +15,9 @@ public class Main {
        System.out.print("")
        System.out.print("")
        System.out.print("")
+       for (int i = 0; i < 10; i++){
+        System.out.print(i);
+
+       }
     }
 }
